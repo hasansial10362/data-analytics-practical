@@ -34,8 +34,8 @@ This repository contains all my practical lab tasks for Data Analytics.
 
 ## 📘 Lab 5: Data Processing
 
-- 📄 Report: [Download PDF](Lab5_Report.pdf)
-- 📓 Notebook: [View Notebook](Lab3_NumPy_Operations.ipynb)
+- 📄 Report:   [Download PDF](Lab5_Report.pdf)
+- 📓 Notebook: [View Notebook](Lab5_Data_Visualization.ipynb)
 
 ---
 
