@@ -21,5 +21,56 @@ This repository contains all my practical lab tasks for Data Analytics.
 ## 📘 Lab 3: Data Processing
 
 - 📄 Report: [Download PDF](Lab3_Report.pdf)
-- 📓 Notebook: [View Notebook](Lab3_Data_Processing.ipynb)
+- 📓 Notebook: [View Notebook](Lab3_NumPy_Operations.ipynb)
+  
+---
+
+## 📘 Lab 4: Data Processing
+
+- 📄 Report: [Download PDF](Lab3_Report.pdf)
+- 📓 Notebook: [View Notebook](Lab3_NumPy_Operations.ipynb)
+
+---
+
+## 📘 Lab 5: Data Processing
+
+- 📄 Report: [Download PDF](Lab3_Report.pdf)
+- 📓 Notebook: [View Notebook](Lab3_NumPy_Operations.ipynb)
+
+---
+
+## 📘 Lab 6: Data Processing
+
+- 📄 Report: [Download PDF](Lab3_Report.pdf)
+- 📓 Notebook: [View Notebook](Lab3_NumPy_Operations.ipynb)
+
+---
+
+## 📘 Lab 7: Data Processing
+
+- 📄 Report: [Download PDF](Lab3_Report.pdf)
+- 📓 Notebook: [View Notebook](Lab3_NumPy_Operations.ipynb)
+
+---
+
+## 📘 Lab 8: Data Processing
+
+- 📄 Report: [Download PDF](Lab3_Report.pdf)
+- 📓 Notebook: [View Notebook](Lab3_NumPy_Operations.ipynb)
+
+---
+
+## 📘 Lab 9: Data Processing
+
+- 📄 Report: [Download PDF](Lab3_Report.pdf)
+- 📓 Notebook: [View Notebook](Lab3_NumPy_Operations.ipynb)
+
+---
+
+## 📘 Lab 1-: Data Processing
+
+- 📄 Report: [Download PDF](Lab3_Report.pdf)
+- 📓 Notebook: [View Notebook](Lab3_NumPy_Operations.ipynb)
+
+
 
